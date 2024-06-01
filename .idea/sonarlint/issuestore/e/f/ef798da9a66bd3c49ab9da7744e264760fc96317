@@ -1,0 +1,54 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(íÒ«8Ëš¡ƒŞ1
+L
+java:S3740"/Provide the parametrized type for this generic.(íÒ«8Ìš¡ƒŞ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(›ò»¾ÿÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S3740 "/Provide the parametrized type for this generic.(ù¦ÏŞşÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S3740 "/Provide the parametrized type for this generic.(ù¦ÏŞşÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S3740("/Provide the parametrized type for this generic.(÷ˆ¥Èúÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S37407"/Provide the parametrized type for this generic.(Åó ¨üÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S37407"/Provide the parametrized type for this generic.(Åó ¨üÿÿÿÿ8Ìš¡ƒŞ1
+L
+java:S37408"/Provide the parametrized type for this generic.(’¡Ì8Ìš¡ƒŞ1
+L
+java:S37408"/Provide the parametrized type for this generic.(’¡Ì8Ìš¡ƒŞ1
+L
+java:S37409"/Provide the parametrized type for this generic.(™ËÜ8Ìš¡ƒŞ1
+L
+java:S37409"/Provide the parametrized type for this generic.(™ËÜ8Ìš¡ƒŞ1
+Q
+java:S3740:"/Provide the parametrized type for this generic.(Ï‰—½şÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S3740:"/Provide the parametrized type for this generic.(Ï‰—½şÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S3740>"/Provide the parametrized type for this generic.(§ÀÅÇşÿÿÿÿ8Ìš¡ƒŞ1
+Q
+java:S3740R"/Provide the parametrized type for this generic.(ÉÒÍÙıÿÿÿÿ8Íš¡ƒŞ1
+Q
+java:S3740R"/Provide the parametrized type for this generic.(ÉÒÍÙıÿÿÿÿ8Íš¡ƒŞ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¦øªúÿÿÿÿ8Îš¡ƒŞ1
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«8Ã›¡ƒŞ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8Ã›¡ƒŞ1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ğä£ş8Ä›¡ƒŞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ8Å›¡ƒŞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Æ›¡ƒŞ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çÈ˜ß8Æ›¡ƒŞ1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(áĞİî8Ç›¡ƒŞ1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(´®œ‹8Ç›¡ƒŞ1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ç˜æ“ıÿÿÿÿ8Ç›¡ƒŞ1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(áĞİî8È›¡ƒŞ1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(äÖ’ì8È›¡ƒŞ1
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(åÙî×8É›¡ƒŞ1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(´àªãúÿÿÿÿ8É›¡ƒŞ1
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(±¨áÄ8É›¡ƒŞ1
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(ù‡ø¦8É›¡ƒŞ1

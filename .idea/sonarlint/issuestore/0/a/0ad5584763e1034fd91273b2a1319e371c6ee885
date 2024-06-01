@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÅì„8‹èŞàË1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ„©ƒûÿÿÿÿ8ŒèŞàË1
+e
+java:S2259"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(¦ÈøÉ8”“âàË1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8 èŞàË1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¡èŞàË1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8•«ààË1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ø–Ğÿüÿÿÿÿ8“âàË1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¡èŞàË1

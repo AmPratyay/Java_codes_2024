@@ -1,0 +1,17 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ñĞŒşÿÿÿÿ8›ÃÙ€Ì1
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ñšğ€Ì1
+l
+java:S1104	"OMake sal a static final constant or non-public and provide accessors if needed.(ºõ×š8¾¼ğ€Ì1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾§¹Èúÿÿÿÿ8ÃÙ€Ì1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÇ€úÿÿÿÿ8¨ÃÙ€Ì1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÓÉÌÑşÿÿÿÿ8¨ÃÙ€Ì1
+]	java:S125"<This block of commented-out lines of code should be removed.(šÙ…¯øÿÿÿÿ8¬ÃÙ€Ì1
+[
+java:S2133">Remove this object instantiation and use "Test.class" instead.(‚½¸Ú8¬ÃÙ€Ì1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ŠóËúÿÿÿÿ8­ÃÙ€Ì1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º›ÂŒ8Ø¡Ü€Ì1
